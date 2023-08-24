@@ -1,3 +1,3 @@
-# EjerciciosImperativos1
+# Ejercicios Practica Imperativa
 
-Practica Imperativa 1 Anthony Jiménez GR50
+Anthony Jiménez Zamora GR50
