@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1jyZaC0AoumtdiClPpuWnY0cGk1O53p4WjXrrNxuas1nZauhFKTVCB76/+Oznp1tQBLqXmdq1M2uMxUUMFdZwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\noni4\\Desktop\\Ejercicios Repositorio\\Ejercicios Repositorio\\Ejercicios Repositorio.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\noni4\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}
