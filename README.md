@@ -1,3 +1,3 @@
-# Ejercicios Practica Imperativo,Funcional
+# Ejercicios Practica Imperativo,Funcional,Lógico
 
 Anthony Jiménez Zamora GR50
